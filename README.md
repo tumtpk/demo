@@ -2,9 +2,4 @@
 demo hello world
 Piyamin 
 
-qweqwer qwr
-
-asdasd
-
-miwmiw
-
+qweqwer qwr adsasd
